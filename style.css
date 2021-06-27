@@ -15,7 +15,7 @@ a {
 /* image styles */
 .img-container {
   display: block;
-  width: 80%;
+  width: min(80%, 600px);
   height: 400px;
   margin: 50px auto;
   border: 10px solid orange;
